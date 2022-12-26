@@ -61,7 +61,7 @@
 Streak](https://streak-stats.demolab.com?user=AntonioSotoAS&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
 
 ![AntonioSotoAS GitHub
-stats](https://github-readme-stats.vercel.app/api?username=AntonioSotoAS&show_icons=true&theme=radical)
+stats](https://github-readme-stats.vercel.app/api?username=AntonioSotoAS&show_icons=true&theme=dark)
 
 
 
