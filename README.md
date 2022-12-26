@@ -12,7 +12,7 @@
 </div>
 
 ---
-
+<div align="left">
 ### 👨‍💻 About Me:
 
 -
@@ -20,19 +20,26 @@
 -
 -
 -
+</div>
 
 <div align="left">
     <h3> Language and Tools:</h3>
-    <div align="left">
+    <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"
             title="Spring" width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"
             width="40" height="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
             title="JavaScript" width="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
-            title="HTML" width="40" height="40" />&nbsp;
-
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML"
+            width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="40"
+            height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql"
+            width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"
+            width="40" height="40" />&nbsp;
+        
     </div>
 
 </div>
