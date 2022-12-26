@@ -3,8 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Arturo Antonio Montejo Soto</h1>
 
-<h3 align="center">👨‍🎓Soy un estudiante de Ingeniería de Sistemas y un desarrollador de Software de Backend Junior|👨‍💻Durante mis estudios, he trabajado en varios proyectos utilizando 
-    diferentes tecnologías y herramientas y he desarrollado una amplia experiencia en el desarrollo de aplicaciones web| 
+<h3 align="center">👨‍🎓Soy un estudiante de Ingeniería de Sistemas y un desarrollador de Software de Backend Junior |👨‍💻Durante mis estudios, he trabajado en varios proyectos utilizando 
+    diferentes tecnologías y herramientas y he desarrollado una amplia experiencia en el desarrollo de aplicaciones web | 
     🎯Mi objetivo es seguir creciendo como desarrollador de software y convertirme en un experto en el campo.</h3>
 
 </div>
