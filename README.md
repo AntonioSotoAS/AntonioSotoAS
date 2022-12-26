@@ -63,6 +63,9 @@ Streak](https://streak-stats.demolab.com?user=AntonioSotoAS&theme=black-ice&hide
 ![AntonioSotoAS GitHub
 stats](https://github-readme-stats.vercel.app/api?username=AntonioSotoAS&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSotoAS&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
